@@ -1,0 +1,11 @@
+c8fbc3ae8161f14ebcd918f7b381686f *DESCRIPTION
+d2af91fa4393b43ab9efa1790a7a9133 *LICENSE
+f934c16e443cc6a63fff947e28872791 *NAMESPACE
+ed86e73d6c815465632cf06cc4871521 *R/chiSqPeriodogram.R
+71e20bf9be7e93c4737e829080301c21 *R/chiSqPeriodogramPlot.R
+5c7daecc0ebac43366cadaa935c435af *man/calcQp.Rd
+a99ff3770ae6ca5a84bd6a522f0f4ef2 *man/chiSqPeriodogram.Rd
+788bf718f7cbc54f2f61ea55199d39ab *man/chiSqPeriodogramPlot.Rd
+157c626a277a8de3f83bb836c7bb05a1 *man/getPeak.Rd
+cf194c1b1e65e6e316068a69de5f795e *tests/testthat.R
+776449df9f75b846223e8c67e743c92d *tests/testthat/test-chiSqPeriodogram.R
